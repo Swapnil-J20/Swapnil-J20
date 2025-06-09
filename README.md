@@ -5,9 +5,9 @@ I’m Swapnil Jadhav, a Senior Analyst passionate about transforming data into a
 <br>
 🔭 I’m currently focusing on:
 
-  * Deepening my Python skills for data analysis, automation, and Machine Learning.
-  * Improving and showcasing my Data Visualization capabilities with Power BI & Tableau.
-  * Exploring Financial Modelling and Valuation techniques.
+  * Deepening my Python skills for data analysis, automation, and Machine Learning
+  * Improving and showcasing my Data Visualization capabilities with Power BI & Tableau
+  * Exploring Financial Modelling and Valuation techniques
 <br>
 
 💬 Ask me about:
