@@ -1,3 +1,5 @@
+![Banner](https://github.com/user-attachments/assets/5c696f4d-01e5-4fc7-a2fe-bc1167582107)
+
 ## Hi there 👋
 
 I’m Swapnil Jadhav, a Senior Analyst passionate about transforming data into actionable insights and driving strategic decisions.
