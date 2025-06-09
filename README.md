@@ -1,16 +1,44 @@
 ## Hi there 👋
 
-<!--
-**Swapnil-J20/Swapnil-J20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Swapnil Jadhav, a Senior Analyst passionate about transforming data into actionable insights and driving strategic decisions.
+<br>
+<br>
+🔭 I’m currently focusing on:
 
-Here are some ideas to get you started:
+  * Deepening my Python skills for data analysis, automation, and Machine Learning.
+  * Improving and showcasing my Data Visualization capabilities with Power BI & Tableau.
+  * Exploring Financial Modelling and Valuation techniques.
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about:
+
+  * Data Analysis & Visualization (Excel, Power BI, Tableau, SQL, Python)
+  * Compliance Data Reporting & Data Integrity
+  * Process Automation & Optimization in data workflows
+  * Requirements Gathering (BRD/FSD) & QA Testing
+<br>
+
+📫 How to reach me:
+  * Email: jswapnil.id@gmail.com
+
+<br>
+🛠️ Languages and Tools:
+
+**Data Analysis & Visualization:**
+
+  * Microsoft Excel (Advanced, VBA, Macros)
+  * Power BI (DAX, Power Query, Dashboard Design)
+  * Tableau
+  * SQL
+
+**Programming & Databases:**
+
+  * Python (Data Analysis, Automation, Scripting)
+  * Databases (Oracle, Vertica)
+<br>
+
+📊 My Projects
+
+This section will showcase my projects as I build and share them on GitHub. Stay tuned!
+
+
